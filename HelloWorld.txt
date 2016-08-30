@@ -1,4 +1,10 @@
 Hello World
+Hello Dinesh
+
 Hi Satish
 hi
+<<<<<<< HEAD
 Lets go for tea.
+=======
+
+>>>>>>> branch 'master' of https://github.com/MyTestOrg1802/TestRepo.git
