@@ -1,3 +1,7 @@
 My File
+<<<<<<< HEAD
 
 Adding new comment in my branch
+=======
+Dinesh has made changes to this file
+>>>>>>> refs/remotes/origin/master
